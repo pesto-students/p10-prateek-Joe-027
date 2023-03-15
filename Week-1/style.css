@@ -124,7 +124,7 @@ tr:nth-child(even) {
 .info {
   position: absolute;
   bottom: 0;
-  font-size: 1px !important;
+  font-size: 9px;
 }
 
 .img.tiny {
@@ -148,10 +148,12 @@ a {
 
 a.controls {
   color: #ffffff;
+  text-decoration: none;
 }
 
 a.icons {
   color: black;
+  text-decoration: none;
 }
 
 .cloud-sync {
