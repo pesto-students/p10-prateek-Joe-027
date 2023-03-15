@@ -146,6 +146,14 @@ a {
   color: #3733e5;
 }
 
+a.controls {
+  color: #ffffff;
+}
+
+a.icons {
+  color: black;
+}
+
 .cloud-sync {
   font-size: 10px;
   color: #3733e5;
